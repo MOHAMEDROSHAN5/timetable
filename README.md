@@ -121,8 +121,8 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](myproj/static/images/out3.png)
+![OUTPUT](./out3.png)
 # HTML VALIDATOR
-![OUTPUT](myproj/static/images/validout3.png)
+![OUTPUT](./validout3.png)
 # RESULT 
 The above program executed successfully.
