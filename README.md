@@ -123,6 +123,6 @@ Execute the program
 # OUPUT
 ![OUTPUT](./out3.png)
 # HTML VALIDATOR
-![OUTPUT](./validout3.png)
+![OUTPUT](./valout3.png)
 # RESULT 
 The above program executed successfully.
