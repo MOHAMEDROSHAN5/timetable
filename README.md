@@ -1,4 +1,4 @@
-# Experiment_Time_Table
+## Experiment_Time_Table
 
 ## AIM
 To Write a html webpage page to display your timetable.
@@ -13,7 +13,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
 
 ```html
 
@@ -120,9 +120,9 @@ Execute the program
 </body>
 </html>
 ```
-# OUPUT
+## OUPUT
 ![OUTPUT](./out3.png)
-# HTML VALIDATOR
+## HTML VALIDATOR
 ![OUTPUT](./valout3.png)
-# RESULT 
+## RESULT 
 The above program executed successfully.
